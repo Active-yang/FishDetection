@@ -1,0 +1,32 @@
+{
+  "description": "Fallback sRGB-to-XYZ conversion and camera color matrices. The paper uses 11 color matrices. The implementation builds an 11-matrix pool from these public fallback bases; DNG profile extraction can replace or extend them.",
+  "rgb_to_xyz": [
+    [0.4124564, 0.3575761, 0.1804375],
+    [0.2126729, 0.7151522, 0.0721750],
+    [0.0193339, 0.1191920, 0.9503041]
+  ],
+  "ccm_pool_size": 11,
+  "basis_xyz_to_camera": [
+    [
+      [1.0234, -0.2969, -0.2266],
+      [-0.5625, 1.6328, -0.0469],
+      [-0.0703, 0.2188, 0.6406]
+    ],
+    [
+      [0.4913, -0.0541, -0.0202],
+      [-0.6130, 1.3513, 0.2906],
+      [-0.1564, 0.2151, 0.7183]
+    ],
+    [
+      [0.8380, -0.2630, -0.0639],
+      [-0.2887, 1.0725, 0.2496],
+      [-0.0627, 0.1427, 0.5438]
+    ],
+    [
+      [0.6596, -0.2079, -0.0562],
+      [-0.4782, 1.3016, 0.1933],
+      [-0.0970, 0.1581, 0.5181]
+    ]
+  ],
+  "camera_profiles": []
+}

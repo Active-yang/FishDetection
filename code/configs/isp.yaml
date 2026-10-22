@@ -1,0 +1,47 @@
+seed: 42
+
+isp:
+  tone_curves_path: assets/tone_curves.npy
+  camera_profiles_path: assets/camera_profiles.json
+
+  tone:
+    enabled: true
+    mode: random
+    fixed_index: 0
+
+  ccm:
+    enabled: true
+    mode: pool
+    pool_size: 11
+    identity_probability: 0.0
+
+  white_balance:
+    enabled: true
+    strength: 1.0
+    red_r_range: [0.0, 1.0]
+    blue_r_range: [0.0, 1.0]
+
+  noise:
+    enabled: true
+    shot_noise_range: [0.0001, 0.012]
+    read_noise_range: [1.0e-8, 2.0e-4]
+    order: noise_then_exposure
+
+  exposure:
+    enabled: true
+    stops: [0.0, 3.0]
+
+  bayer:
+    enabled: true
+    pattern: RGGB
+
+  demosaic:
+    mode: malvar
+    edge_mode: mirror
+
+  calibration:
+    enabled: false
+    path: configs/calibration.json
+
+  output:
+    clamp: true

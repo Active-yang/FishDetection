@@ -1,0 +1,503 @@
+{
+    "version": "5.0.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "fish",
+            "points": [
+                [
+                    763.22,
+                    137.9
+                ],
+                [
+                    942.58,
+                    199.84
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    949.03,
+                    257.9
+                ],
+                [
+                    1047.1,
+                    349.52
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    978.71,
+                    157.26
+                ],
+                [
+                    1527.1,
+                    398.55
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    1518.06,
+                    408.87
+                ],
+                [
+                    1631.61,
+                    483.71
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    1603.23,
+                    482.42
+                ],
+                [
+                    1754.19,
+                    584.36
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    1741.29,
+                    0
+                ],
+                [
+                    1892.26,
+                    134.03
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    930.97,
+                    353.39
+                ],
+                [
+                    1271.61,
+                    641.13
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    1120.65,
+                    368.87
+                ],
+                [
+                    1254.84,
+                    448.87
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    1227.74,
+                    521.13
+                ],
+                [
+                    1381.29,
+                    610.16
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    1203.23,
+                    612.74
+                ],
+                [
+                    1385.16,
+                    700.48
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    911.61,
+                    595.97
+                ],
+                [
+                    1076.77,
+                    668.23
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    869.03,
+                    474.68
+                ],
+                [
+                    1034.19,
+                    565.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    807.1,
+                    402.42
+                ],
+                [
+                    941.29,
+                    483.71
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    569.68,
+                    450.16
+                ],
+                [
+                    697.42,
+                    512.1
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    229.03,
+                    211.45
+                ],
+                [
+                    372.26,
+                    321.13
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    17.42,
+                    288.87
+                ],
+                [
+                    149.03,
+                    416.61
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    128.39,
+                    412.74
+                ],
+                [
+                    266.45,
+                    522.42
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    240.64,
+                    223.06
+                ],
+                [
+                    865.16,
+                    475.97
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    100.0,
+                    737.9
+                ],
+                [
+                    241.94,
+                    841.13
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    70.32,
+                    810.16
+                ],
+                [
+                    338.71,
+                    950.81
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    145.16,
+                    918.55
+                ],
+                [
+                    270.32,
+                    1034.68
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    367.1,
+                    925.0
+                ],
+                [
+                    610.97,
+                    1080
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    758.06,
+                    780.48
+                ],
+                [
+                    1061.29,
+                    886.29
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    1123.23,
+                    838.55
+                ],
+                [
+                    1253.55,
+                    1008.87
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    716.77,
+                    848.87
+                ],
+                [
+                    1020.0,
+                    989.52
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    874.19,
+                    1002.42
+                ],
+                [
+                    1218.71,
+                    1079.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    1680.65,
+                    967.58
+                ],
+                [
+                    1798.06,
+                    1074.68
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    1347.74,
+                    897.9
+                ],
+                [
+                    1440.64,
+                    1039.84
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fish",
+            "points": [
+                [
+                    860.0,
+                    614.03
+                ],
+                [
+                    914.19,
+                    690.16
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "brighttrain_01136.jpg",
+    "imageData": null,
+    "imageHeight": 1080,
+    "imageWidth": 1920
+}
